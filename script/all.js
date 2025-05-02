@@ -37,15 +37,15 @@ setInterval(function () {
 })
 
 function _c() {
-    if (c_ != 'CNZW') {
-        c_ = 'CNZW',
+    if (c_ != 'CMSK') {
+        c_ = 'CMSK',
             p_ = '';
         __c__();
     }
 }
 function _p() {
-    if (p_ != 'CNZW') {
-        p_ = 'CNZW',
+    if (p_ != 'CMSK') {
+        p_ = 'CMSK',
             c_ = '';
         __p__();
     }
